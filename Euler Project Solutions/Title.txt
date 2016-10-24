@@ -1,0 +1,7 @@
+/**  
+  * Title      : Multiples of 3 and 5
+  * Date       : 21/10/2016  
+  * Program By : Jeff Mbeleke 
+  * Description: This is a solution to problem 1 "Multiples of 3 and 5" 
+  				 from projecteuler.net 
+**/
